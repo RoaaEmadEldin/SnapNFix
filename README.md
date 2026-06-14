@@ -7,14 +7,12 @@ The system consists of two integrated components:
 * **Citizen Mobile Application** for reporting and tracking urban issues
 * **Administrative Dashboard** for managing incidents, users, and analytics
 
----
 
 ## Repositories
 
 - Mobile Application: [SnapNFix Mobile](https://github.com/RoaaEmadEldin/SnapNFix-Mobile)
 - Admin Dashboard: [SnapNFix Dashboard](https://github.com/RoaaEmadEldin/SnapNFix-Dashboard)
 
----
 
 ## System Overview
 
@@ -27,7 +25,6 @@ SnapNFix enables citizens to report issues such as:
 
 Reports are submitted with images, location data, and issue details, allowing administrators to review, track, and resolve incidents efficiently.
 
----
 
 ## Components
 
@@ -55,7 +52,6 @@ A Flutter-based application for citizens to:
 
 Repository: [SnapNFix Mobile](https://github.com/RoaaEmadEldin/SnapNFix-Mobile)
 
----
 
 ### Admin Dashboard
 
@@ -80,7 +76,6 @@ A React + TypeScript dashboard for administrators to:
 
 Repository: [SnapNFix Dashboard](https://github.com/RoaaEmadEldin/SnapNFix-Dashboard)
 
----
 
 ## Architecture
 
@@ -92,7 +87,6 @@ SnapNFix follows a multi-platform system architecture:
 * Real-time synchronization
 * Cloud messaging and notifications
 
----
 
 ## Project Scope
 
@@ -104,7 +98,6 @@ This project was developed as a graduation project and focuses on:
 * Geographic visualization
 * Administrative management
 
----
 
 ## Contributors
 
